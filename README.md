@@ -29,4 +29,29 @@ I'm a Master of Data Science student at the University of Western Australia, wit
 He/him  
 
 ## ⚡ Fun fact:  
-I built an AI novelist that writes full chapters, evaluates its own output, and supports English & Vietnamese — powered by Gemini + LangGraph.
+I built an AI novelist that writes full chapters, evaluates its own output, and supports English, Vietnamese and other languages — powered by Gemini + LangGraph.
+
+---
+
+## 📂 Featured Projects
+
+- [**DataStoryTelling**](https://github.com/cedrusdang/DataStoryTelling)  
+  *Queensland Traffic Accidents Analysis (2001–2021)*  
+  <sub>Exploratory data analysis and interactive data storytelling on Queensland’s traffic accident history.</sub>
+
+- [**CDA_Project**](https://github.com/cedrusdang/CDA_Project)  
+  *Public Health Data EDA and Machine Learning Modelling with Classification and Clustering*  
+  <sub>Comprehensive EDA and ML workflows for public health research. Includes Shiny app and clustering/classification models.</sub>
+
+- [**uselessAI**](https://github.com/cedrusdang/uselessAI)  
+  <sub>Fun AI experiments and prototypes in JavaScript.</sub>
+
+- [**DataWarehouse_project**](https://github.com/cedrusdang/DataWarehouse_project)  
+  <sub>Data warehousing, analytics, and ETL pipelines in Jupyter Notebook.</sub>
+
+- [**NovelForger**](https://github.com/cedrusdang/NovelForger)  
+  *AI Novelist Platform*  
+  <sub>Uses Gemini + LangGraph for modular AI fiction writing, supporting multi-language and self-evaluation feedback loops.</sub>
+
+- [**IoT_UWA_Project_G22**](https://github.com/cedrusdang/IoT_UWA_Project_G22)  
+  <sub>Full-stack IoT solution for smart livestock tracking using LoRa, MQTT, and AWS Cloud.</sub>
