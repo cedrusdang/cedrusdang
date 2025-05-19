@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @cedrusdang
+# 👋 Hi, I’m Cedrus Dang
 
 I'm a Master of Data Science student at the University of Western Australia, with project experience in AI agents, machine learning, data warehousing, and IoT systems. I hold a strong academic record (High Distinction) and apply analytical thinking to real-world challenges in public health, road safety, and smart agriculture.
 
