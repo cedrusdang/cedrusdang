@@ -1,41 +1,32 @@
-# 👋 Hi, I’m Cedrus Dang
+# 👋 Hi, I’m Cedrus Dang (Aka. Thanh Tung Dang)
 
-I'm a Master of Data Science student at the University of Western Australia, with project experience in AI agents, machine learning, data warehousing, and IoT systems. I hold a strong academic record (High Distinction) and apply analytical thinking to real-world challenges in public health, road safety, and smart agriculture.
+I'm a Master of Data Science student at the University of Western Australia, with project experience in AI agents, machine learning, data warehousing, and IoT systems. I enjoy learning and applying programming skills and analytical thinking to real-world challenges.
 
 ---
 
 ## 👀 I’m interested in  
-- Generative AI Agents and AI storytelling  
-- Applied machine learning for public data  
-- Data engineering & policy-oriented analytics  
-- Edge AI and IoT in agriculture and environment  
-
-## 🌱 I’m currently learning  
-- LLM architectures and multi-agent systems  
-- MLOps and deployment of ML models at scale  
-- Graph databases (Neo4j) and relational-to-graph mapping  
-
-## 💞️ I’m looking to collaborate on  
-- Open-source generative AI tools  
-- Public datasets with real-world impact  
-- IoT + ML integration for sustainable tech  
+- Generative AI and AI Agents
+- Applied and Scientific Machine Learning and Deep Learning
+- Data engineering & analytics  
+- Edge computing and IoT
+- Web development
 
 ## 📫 How to reach me  
 - [LinkedIn](https://www.linkedin.com/in/cedrusdang/)  
 - GitHub Issues or Discussions  
-- Email: cedrus.dang [at] uwa.edu.au  
+- Email: dtt161094@gmai.com
 
 ## 😄 Pronouns:  
 He/him  
 
 ## ⚡ Fun fact:  
-I built an AI novelist that writes full chapters, evaluates its own output, and supports English, Vietnamese and other languages — powered by Gemini + LangGraph.
+I built an AI novelist that writes complete chapters, evaluates its output, and supports English, Vietnamese and other languages — powered by Gemini + LangGraph.
 
 ---
 
 ## 📂 Featured Projects
 
-- [**DataStoryTelling**](https://github.com/cedrusdang/DataStoryTelling)  
+- [**Data Story Telling Project**](https://github.com/cedrusdang/DataStoryTelling)  
   *Queensland Traffic Accidents Analysis (2001–2021)*  
   <sub>Exploratory data analysis and interactive data storytelling on Queensland’s traffic accident history.</sub>
 
@@ -43,15 +34,15 @@ I built an AI novelist that writes full chapters, evaluates its own output, and 
   *Public Health Data EDA and Machine Learning Modelling with Classification and Clustering*  
   <sub>Comprehensive EDA and ML workflows for public health research. Includes Shiny app and clustering/classification models.</sub>
 
-- [**uselessAI**](https://github.com/cedrusdang/uselessAI)  
-  <sub>Fun AI experiments and prototypes in JavaScript.</sub>
-
-- [**DataWarehouse_project**](https://github.com/cedrusdang/DataWarehouse_project)  
-  <sub>Data warehousing, analytics, and ETL pipelines in Jupyter Notebook.</sub>
-
-- [**NovelForger**](https://github.com/cedrusdang/NovelForger)  
+- [**Data Warehouse_Project**](https://github.com/cedrusdang/DataWarehouse_project)  
+  <sub>Data warehousing using PostgreSQL, analytics, and ETL pipelines in Jupyter Notebook.</sub>
+  
+- [**Graph Data Warehouse_Project**](https://github.com/cedrusdang/graph-db-query)  
+  <sub>Graph Data warehousing, analytics, and ETL pipelines in Python scripts.</sub>
+  
+- [**Novel Forger GenAI Agent**](https://github.com/cedrusdang/NovelForger)  
   *AI Novelist Platform*  
   <sub>Uses Gemini + LangGraph for modular AI fiction writing, supporting multi-language and self-evaluation feedback loops.</sub>
 
-- [**IoT_UWA_Project_G22**](https://github.com/cedrusdang/IoT_UWA_Project_G22)  
+- [**IoT_GPS Tracking System Project**](https://github.com/cedrusdang/IoT_UWA_Project_G22)  
   <sub>Full-stack IoT solution for smart livestock tracking using LoRa, MQTT, and AWS Cloud.</sub>
