@@ -12,7 +12,8 @@ I'm a Master of Data Science student at the University of Western Australia, wit
 - Web development
 
 ## 📫 How to reach me  
-- [LinkedIn](https://www.linkedin.com/in/cedrusdang/)  
+- [LinkedIn](https://www.linkedin.com/in/cedrusdang/)
+- Portfolio: [cedrusdang.github.io/](https://cedrusdang.github.io/)
 - GitHub Issues or Discussions  
 - Email: dtt161094@gmai.com
 
