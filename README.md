@@ -49,6 +49,7 @@ I built an AI novelist that writes complete chapters, evaluates its output, and 
   <sub>Full-stack IoT solution for smart livestock tracking using LoRa, MQTT, and AWS Cloud.</sub>
 
 - [**Meta Front-End Developer Capstone Project**](https://github.com/cedrusdang/portfoliofe)
-  <br>*Professional React Application (Meta Certification Capstone)*</br>
-  <br>Advanced React project with real-time booking system, admin dashboard, responsive design, accessibility, modular components, and full compliance with Meta Figma UX/UI specs. Includes integrated unit/integration testing and local server simulation for complete demo capability.</br>
+  <*Professional React Application (Meta Certification Capstone)*
+  Advanced React project with real-time booking system, admin dashboard, responsive design, accessibility, modular components, and full compliance with Meta Figma UX/UI specs.
+  Includes integrated unit/integration testing and local server simulation for complete demo capability.
 
