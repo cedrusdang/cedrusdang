@@ -55,9 +55,9 @@ I built an AI novelist that writes complete chapters, evaluates its output, and 
 ## Technical Showcases
 
 - [**Observational Data Analytics**](https://github.com/cedrusdang/Cedrus_STAT2402_UWA_Projects)  
-  **Predicting Low Birth Weight Using Logistic Regression**  
-    Identifies key maternal and clinical predictors for low birth weight in newborns, using logistic regression with variable selection and model diagnostics on a real hospital dataset.  
-    Tech stack: R, glm, AIC, data visualization
-  **Analysis of Patient Complaints Using Zero-Inflated Count Models**  
-    Applies Poisson, Negative Binomial, ZIP, and ZINB models to hospital emergency doctor complaint data to determine significant predictors, with comprehensive EDA and model selection.  
-    Tech stack: R, pscl, MASS, count regression, EDA
+  **- Predicting Low Birth Weight Using Logistic Regression**  
+      <sub>Identifies key maternal and clinical predictors for low birth weight in newborns, using logistic regression with variable selection and model diagnostics on a real hospital dataset.</sub>
+        - Tech stack: R, glm, AIC, data visualization
+  **- Analysis of Patient Complaints Using Zero-Inflated Count Models**  
+        <sub>Applies Poisson, Negative Binomial, ZIP, and ZINB models to hospital emergency doctor complaint data to determine significant predictors, with comprehensive EDA and model selection.</sub>
+          - Tech stack: R, pscl, MASS, count regression, EDA
