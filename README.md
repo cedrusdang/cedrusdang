@@ -62,3 +62,12 @@ I built an AI novelist that writes complete chapters, evaluates its output, and 
   - **Analysis of Patient Complaints Using Zero-Inflated Count Models**  
     <sub>Applies Poisson, Negative Binomial, ZIP, and ZINB models to hospital emergency doctor complaint data to determine significant predictors, with comprehensive EDA and model selection.</sub>  
     - Tech stack: R, pscl, MASS, count regression, EDA
+
+- [**Machine Learning with Showcase Data**](https://github.com/cedrusdang/Cedrus_ML_CITS5508_UWA)  
+  - **Voting Classifier on Breast Cancer Data**  
+    <sub>Combines logistic regression, random forest, and SVM into a voting ensemble to improve breast cancer diagnosis on the Wisconsin dataset. Includes preprocessing, model evaluation, cross-validation, and ROC analysis.</sub>  
+    - Tech stack: Python, scikit-learn, pandas, ensemble learning, ROC analysis
+
+  - **Random Forest on Labeled Faces in the Wild (LFW)**  
+    <sub>Applies random forest classification with PCA-based dimensionality reduction for face recognition using the LFW dataset. Covers preprocessing, hyperparameter tuning, and model assessment.</sub>  
+    - Tech stack: Python, scikit-learn, pandas, PCA, random forest
