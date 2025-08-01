@@ -14,7 +14,6 @@ I'm a Master of Data Science student at the University of Western Australia, wit
 ## 📫 How to reach me  
 - [LinkedIn](https://www.linkedin.com/in/cedrusdang/)
 - Portfolio: [https://cedrusdang.com/](https://cedrusdang.com/)
-- GitHub Issues or Discussions  
 - Email: dtt161094@gmai.com
 
 ## 😄 Pronouns:  
@@ -52,12 +51,12 @@ I built an AI novelist that writes complete chapters, evaluates its output, and 
   *Professional React Application (Meta Certification Capstone)*  
   <sub>Advanced React project with real-time booking system, admin dashboard, responsive design, accessibility, modular components, and full compliance with Meta Figma UX/UI specs. Includes integrated unit/integration testing and local server simulation for complete demo capability.</sub>
 
-## Technical Showcases
+## 🛠️ Technical Showcases
 
 - [**Observational Data Analytics**](https://github.com/cedrusdang/Cedrus_STAT2402_UWA_Projects)  
   - **Predicting Low Birth Weight Using Logistic Regression**  
     <sub>Identifies key maternal and clinical predictors for low birth weight in newborns, using logistic regression with variable selection and model diagnostics on a real hospital dataset.</sub>  
-    - Tech stack: R, glm, AIC, data visualization
+    - Tech stack: R, glm, AIC, data visualisation
 
   - **Analysis of Patient Complaints Using Zero-Inflated Count Models**  
     <sub>Applies Poisson, Negative Binomial, ZIP, and ZINB models to hospital emergency doctor complaint data to determine significant predictors, with comprehensive EDA and model selection.</sub>  
@@ -68,6 +67,6 @@ I built an AI novelist that writes complete chapters, evaluates its output, and 
     <sub>Combines logistic regression, random forest, and SVM into a voting ensemble to improve breast cancer diagnosis on the Wisconsin dataset. Includes preprocessing, model evaluation, cross-validation, and ROC analysis.</sub>  
     - Tech stack: Python, scikit-learn, pandas, ensemble learning, ROC analysis
 
-  - **Random Forest on Labeled Faces in the Wild (LFW)**  
+  - **Random Forest on Labelled Faces in the Wild (LFW)**  
     <sub>Applies random forest classification with PCA-based dimensionality reduction for face recognition using the LFW dataset. Covers preprocessing, hyperparameter tuning, and model assessment.</sub>  
     - Tech stack: Python, scikit-learn, pandas, PCA, random forest
